@@ -1,5 +1,3 @@
+var clickAddButton = document.querySelector(".add-button")
+clickAddButton.addEventListener('click', function() {('Test') });
 
-
-function flip() {
-  $('.card').toggleClass('flipped');
-}
